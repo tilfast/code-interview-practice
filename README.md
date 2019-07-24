@@ -1,1 +1,3 @@
-# leet-code-practice
+### Cracking the Code Interview
+
+Just some exercises
